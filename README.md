@@ -3,14 +3,14 @@ Apple's Website
 
 https://apil.podter.xyz
 
-# Build
+## Build
 Make sure that you have Docker installed
 ```bash
 docker build -t apil-website .
 ```
-* I didn't upload this to the Docker Hub
+> I didn't upload this to the Docker Hub
 
-# Run
+## Run
 ```bash
 docker run -p 80:80 apil-website
 ```
