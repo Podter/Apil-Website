@@ -1,7 +1,31 @@
 # Apil-Website
 Apple's Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/60be4a01-2bcd-4762-bbb2-ceee8d00fed7/deploy-status)](https://app.netlify.com/sites/apil/deploys)
-[![Discord](https://dcbadge.vercel.app/api/shield/963724340208234537?compact=true&theme=blurple)](https://discord.com/users/963724340208234537)
-
 https://apil.podter.xyz
+
+## Setup
+Install Node.js (LTS is recommend)
+```bash
+# npm
+npm i
+# yarn
+yarn
+```
+
+## Development
+Run this and open `localhost:8080`
+```bash
+# npm
+npm run dev
+# yarn
+yarn dev
+```
+
+# Start
+Change port number in `package.json` and then run
+```bash
+# npm
+npm start
+# yarn
+yarn start
+```
